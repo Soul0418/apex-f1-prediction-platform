@@ -1,0 +1,4 @@
+model,races_evaluated,top1_correct,top1_accuracy_pct,winner_in_top3_pct,mean_actual_winner_rank
+Starting-grid baseline,24,16,66.67,95.83,1.54
+Logistic Regression + history,24,12,50.0,100.0,1.67
+Random Forest + history,24,14,58.33,87.5,1.79

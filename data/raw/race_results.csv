@@ -1,0 +1,121 @@
+season,round,race_name,race_date,driver_id,driver_code,driver_number,driver_name,constructor_id,constructor_name,grid,position,position_text,points,laps,status,finish_time,fastest_lap_rank,fastest_lap_time
+2018,1,Australian Grand Prix,2018-03-25,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,3,1,1,25,58,Finished,1:29:33.283,4,1:26.469
+2018,1,Australian Grand Prix,2018-03-25,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,1,2,2,18,58,Finished,+5.036,3,1:26.444
+2018,1,Australian Grand Prix,2018-03-25,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,2,3,3,15,58,Finished,+6.309,2,1:26.373
+2018,1,Australian Grand Prix,2018-03-25,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,8,4,4,12,58,Finished,+7.069,1,1:25.945
+2018,1,Australian Grand Prix,2018-03-25,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,10,5,5,10,58,Finished,+27.886,7,1:26.978
+2018,1,Australian Grand Prix,2018-03-25,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,4,6,6,8,58,Finished,+28.945,5,1:26.880
+2018,1,Australian Grand Prix,2018-03-25,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,7,7,7,6,58,Finished,+32.671,9,1:27.081
+2018,1,Australian Grand Prix,2018-03-25,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,15,8,8,4,58,Finished,+34.339,8,1:27.019
+2018,1,Australian Grand Prix,2018-03-25,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,11,9,9,2,58,Finished,+34.921,6,1:26.958
+2018,1,Australian Grand Prix,2018-03-25,sainz,SAI,55,Carlos Sainz,renault,Renault,9,10,10,1,58,Finished,+45.722,12,1:27.944
+2018,1,Australian Grand Prix,2018-03-25,perez,PER,11,Sergio Pérez,force_india,Force India,12,11,11,0,58,Finished,+46.817,11,1:27.633
+2018,1,Australian Grand Prix,2018-03-25,ocon,OCO,31,Esteban Ocon,force_india,Force India,14,12,12,0,58,Finished,+1:00.278,10,1:27.600
+2018,1,Australian Grand Prix,2018-03-25,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,18,13,13,0,58,Finished,+1:15.759,15,1:28.759
+2018,1,Australian Grand Prix,2018-03-25,stroll,STR,18,Lance Stroll,williams,Williams,13,14,14,0,58,Finished,+1:18.288,14,1:28.511
+2018,1,Australian Grand Prix,2018-03-25,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,16,15,15,0,57,+1 Lap,,13,1:28.176
+2018,1,Australian Grand Prix,2018-03-25,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,6,16,R,0,24,Wheel,,16,1:28.805
+2018,1,Australian Grand Prix,2018-03-25,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,5,17,R,0,22,Wheel,,17,1:29.534
+2018,1,Australian Grand Prix,2018-03-25,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,20,18,R,0,13,Engine,,18,1:30.649
+2018,1,Australian Grand Prix,2018-03-25,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,17,19,R,0,5,Steering,,19,1:32.210
+2018,1,Australian Grand Prix,2018-03-25,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,19,20,R,0,4,Brakes,,20,1:32.573
+2018,2,Bahrain Grand Prix,2018-04-08,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,1,1,1,25,57,Finished,1:32:01.940,7,1:34.453
+2018,2,Bahrain Grand Prix,2018-04-08,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,3,2,2,18,57,Finished,+0.699,1,1:33.740
+2018,2,Bahrain Grand Prix,2018-04-08,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,9,3,3,15,57,Finished,+6.512,2,1:33.953
+2018,2,Bahrain Grand Prix,2018-04-08,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,5,4,4,12,57,Finished,+1:02.234,11,1:34.863
+2018,2,Bahrain Grand Prix,2018-04-08,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,6,5,5,10,57,Finished,+1:15.046,5,1:34.327
+2018,2,Bahrain Grand Prix,2018-04-08,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,7,6,6,8,57,Finished,+1:39.024,9,1:34.667
+2018,2,Bahrain Grand Prix,2018-04-08,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,13,7,7,6,56,+1 Lap,,4,1:34.168
+2018,2,Bahrain Grand Prix,2018-04-08,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,14,8,8,4,56,+1 Lap,,16,1:35.131
+2018,2,Bahrain Grand Prix,2018-04-08,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,17,9,9,2,56,+1 Lap,,15,1:35.093
+2018,2,Bahrain Grand Prix,2018-04-08,ocon,OCO,31,Esteban Ocon,force_india,Force India,8,10,10,1,56,+1 Lap,,12,1:35.043
+2018,2,Bahrain Grand Prix,2018-04-08,sainz,SAI,55,Carlos Sainz,renault,Renault,10,11,11,0,56,+1 Lap,,18,1:35.535
+2018,2,Bahrain Grand Prix,2018-04-08,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,19,12,12,0,56,+1 Lap,,14,1:35.075
+2018,2,Bahrain Grand Prix,2018-04-08,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,16,13,13,0,56,+1 Lap,,10,1:34.689
+2018,2,Bahrain Grand Prix,2018-04-08,stroll,STR,18,Lance Stroll,williams,Williams,20,14,14,0,56,+1 Lap,,13,1:35.058
+2018,2,Bahrain Grand Prix,2018-04-08,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,18,15,15,0,56,+1 Lap,,3,1:34.053
+2018,2,Bahrain Grand Prix,2018-04-08,perez,PER,11,Sergio Pérez,force_india,Force India,12,16,16,0,56,+1 Lap,,17,1:35.266
+2018,2,Bahrain Grand Prix,2018-04-08,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,11,17,17,0,56,+1 Lap,,8,1:34.563
+2018,2,Bahrain Grand Prix,2018-04-08,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,2,18,R,0,35,Wheel,,6,1:34.337
+2018,2,Bahrain Grand Prix,2018-04-08,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,15,19,R,0,3,Puncture,,,
+2018,2,Bahrain Grand Prix,2018-04-08,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,4,20,R,0,1,Electrical,,,
+2018,3,Chinese Grand Prix,2018-04-15,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,6,1,1,25,56,Finished,1:35:36.380,1,1:35.785
+2018,3,Chinese Grand Prix,2018-04-15,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,3,2,2,18,56,Finished,+8.894,6,1:36.987
+2018,3,Chinese Grand Prix,2018-04-15,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,2,3,3,15,56,Finished,+9.637,3,1:36.456
+2018,3,Chinese Grand Prix,2018-04-15,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,4,4,4,12,56,Finished,+16.985,4,1:36.878
+2018,3,Chinese Grand Prix,2018-04-15,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,5,5,5,10,56,Finished,+20.436,2,1:36.206
+2018,3,Chinese Grand Prix,2018-04-15,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,7,6,6,8,56,Finished,+21.052,5,1:36.881
+2018,3,Chinese Grand Prix,2018-04-15,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,13,7,7,6,56,Finished,+30.639,7,1:37.234
+2018,3,Chinese Grand Prix,2018-04-15,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,1,8,8,4,56,Finished,+35.286,9,1:37.479
+2018,3,Chinese Grand Prix,2018-04-15,sainz,SAI,55,Carlos Sainz,renault,Renault,9,9,9,2,56,Finished,+35.763,11,1:37.754
+2018,3,Chinese Grand Prix,2018-04-15,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,11,10,10,1,56,Finished,+39.594,14,1:38.152
+2018,3,Chinese Grand Prix,2018-04-15,ocon,OCO,31,Esteban Ocon,force_india,Force India,12,11,11,0,56,Finished,+44.050,12,1:37.985
+2018,3,Chinese Grand Prix,2018-04-15,perez,PER,11,Sergio Pérez,force_india,Force India,8,12,12,0,56,Finished,+44.725,10,1:37.673
+2018,3,Chinese Grand Prix,2018-04-15,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,14,13,13,0,56,Finished,+49.373,13,1:38.137
+2018,3,Chinese Grand Prix,2018-04-15,stroll,STR,18,Lance Stroll,williams,Williams,18,14,14,0,56,Finished,+55.490,17,1:38.500
+2018,3,Chinese Grand Prix,2018-04-15,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,16,15,15,0,56,Finished,+58.241,18,1:38.624
+2018,3,Chinese Grand Prix,2018-04-15,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,20,16,16,0,56,Finished,+1:02.604,16,1:38.386
+2018,3,Chinese Grand Prix,2018-04-15,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,10,17,17,0,56,Finished,+1:05.296,8,1:37.410
+2018,3,Chinese Grand Prix,2018-04-15,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,17,18,18,0,56,Finished,+1:06.330,15,1:38.367
+2018,3,Chinese Grand Prix,2018-04-15,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,19,19,19,0,56,Finished,+1:22.575,19,1:38.808
+2018,3,Chinese Grand Prix,2018-04-15,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,15,20,20,0,51,Collision damage,,20,1:39.376
+2018,4,Azerbaijan Grand Prix,2018-04-29,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,2,1,1,25,51,Finished,1:43:44.291,2,1:45.412
+2018,4,Azerbaijan Grand Prix,2018-04-29,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,6,2,2,18,51,Finished,+2.460,7,1:46.523
+2018,4,Azerbaijan Grand Prix,2018-04-29,perez,PER,11,Sergio Pérez,force_india,Force India,8,3,3,15,51,Finished,+4.024,6,1:46.206
+2018,4,Azerbaijan Grand Prix,2018-04-29,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,1,4,4,12,51,Finished,+5.329,4,1:45.530
+2018,4,Azerbaijan Grand Prix,2018-04-29,sainz,SAI,55,Carlos Sainz,renault,Renault,9,5,5,10,51,Finished,+7.515,9,1:46.856
+2018,4,Azerbaijan Grand Prix,2018-04-29,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,13,6,6,8,51,Finished,+9.158,11,1:47.403
+2018,4,Azerbaijan Grand Prix,2018-04-29,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,12,7,7,6,51,Finished,+10.931,12,1:47.449
+2018,4,Azerbaijan Grand Prix,2018-04-29,stroll,STR,18,Lance Stroll,williams,Williams,10,8,8,4,51,Finished,+12.546,8,1:46.815
+2018,4,Azerbaijan Grand Prix,2018-04-29,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,16,9,9,2,51,Finished,+14.152,13,1:47.666
+2018,4,Azerbaijan Grand Prix,2018-04-29,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,19,10,10,1,51,Finished,+18.030,17,1:48.288
+2018,4,Azerbaijan Grand Prix,2018-04-29,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,18,11,11,0,51,Finished,+18.512,14,1:47.925
+2018,4,Azerbaijan Grand Prix,2018-04-29,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,17,12,12,0,51,Finished,+24.720,15,1:48.035
+2018,4,Azerbaijan Grand Prix,2018-04-29,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,15,13,13,0,51,Finished,+40.663,16,1:48.155
+2018,4,Azerbaijan Grand Prix,2018-04-29,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,3,14,R,0,48,Puncture,,1,1:45.149
+2018,4,Azerbaijan Grand Prix,2018-04-29,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,20,15,R,0,42,Accident,,10,1:46.880
+2018,4,Azerbaijan Grand Prix,2018-04-29,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,5,16,R,0,39,Collision,,5,1:45.771
+2018,4,Azerbaijan Grand Prix,2018-04-29,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,4,17,R,0,39,Collision,,3,1:45.419
+2018,4,Azerbaijan Grand Prix,2018-04-29,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,14,18,R,0,10,Accident,,18,1:48.867
+2018,4,Azerbaijan Grand Prix,2018-04-29,ocon,OCO,31,Esteban Ocon,force_india,Force India,7,19,R,0,0,Collision,,,
+2018,4,Azerbaijan Grand Prix,2018-04-29,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,11,20,R,0,0,Collision,,,
+2018,5,Spanish Grand Prix,2018-05-13,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,1,1,1,25,66,Finished,1:35:29.972,3,1:19.133
+2018,5,Spanish Grand Prix,2018-05-13,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,2,2,2,18,66,Finished,+20.593,5,1:19.478
+2018,5,Spanish Grand Prix,2018-05-13,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,5,3,3,15,66,Finished,+26.873,4,1:19.422
+2018,5,Spanish Grand Prix,2018-05-13,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,3,4,4,12,66,Finished,+27.584,2,1:19.128
+2018,5,Spanish Grand Prix,2018-05-13,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,6,5,5,10,66,Finished,+50.058,1,1:18.441
+2018,5,Spanish Grand Prix,2018-05-13,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,7,6,6,8,65,+1 Lap,,6,1:20.246
+2018,5,Spanish Grand Prix,2018-05-13,sainz,SAI,55,Carlos Sainz,renault,Renault,9,7,7,6,65,+1 Lap,,9,1:21.324
+2018,5,Spanish Grand Prix,2018-05-13,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,8,8,8,4,65,+1 Lap,,7,1:20.727
+2018,5,Spanish Grand Prix,2018-05-13,perez,PER,11,Sergio Pérez,force_india,Force India,15,9,9,2,64,+2 Laps,,8,1:21.128
+2018,5,Spanish Grand Prix,2018-05-13,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,14,10,10,1,64,+2 Laps,,14,1:22.122
+2018,5,Spanish Grand Prix,2018-05-13,stroll,STR,18,Lance Stroll,williams,Williams,18,11,11,0,64,+2 Laps,,12,1:22.095
+2018,5,Spanish Grand Prix,2018-05-13,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,20,12,12,0,64,+2 Laps,,10,1:21.439
+2018,5,Spanish Grand Prix,2018-05-13,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,17,13,13,0,64,+2 Laps,,15,1:22.487
+2018,5,Spanish Grand Prix,2018-05-13,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,19,14,14,0,63,+3 Laps,,17,1:22.680
+2018,5,Spanish Grand Prix,2018-05-13,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,11,15,R,0,45,Gearbox,,16,1:22.594
+2018,5,Spanish Grand Prix,2018-05-13,ocon,OCO,31,Esteban Ocon,force_india,Force India,13,16,R,0,38,Oil leak,,13,1:22.117
+2018,5,Spanish Grand Prix,2018-05-13,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,4,17,R,0,25,Turbo,,11,1:21.531
+2018,5,Spanish Grand Prix,2018-05-13,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,10,18,R,0,0,Collision,,,
+2018,5,Spanish Grand Prix,2018-05-13,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,12,19,R,0,0,Collision,,,
+2018,5,Spanish Grand Prix,2018-05-13,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,16,20,R,0,0,Collision,,,
+2018,6,Monaco Grand Prix,2018-05-27,ricciardo,RIC,3,Daniel Ricciardo,red_bull,Red Bull,1,1,1,25,78,Finished,1:42:54.807,5,1:15.562
+2018,6,Monaco Grand Prix,2018-05-27,vettel,VET,5,Sebastian Vettel,ferrari,Ferrari,2,2,2,18,78,Finished,+7.336,7,1:16.065
+2018,6,Monaco Grand Prix,2018-05-27,hamilton,HAM,44,Lewis Hamilton,mercedes,Mercedes,3,3,3,15,78,Finished,+17.013,8,1:16.270
+2018,6,Monaco Grand Prix,2018-05-27,raikkonen,RAI,7,Kimi Räikkönen,ferrari,Ferrari,4,4,4,12,78,Finished,+18.127,10,1:16.392
+2018,6,Monaco Grand Prix,2018-05-27,bottas,BOT,77,Valtteri Bottas,mercedes,Mercedes,5,5,5,10,78,Finished,+18.822,9,1:16.312
+2018,6,Monaco Grand Prix,2018-05-27,ocon,OCO,31,Esteban Ocon,force_india,Force India,6,6,6,8,78,Finished,+23.667,14,1:17.027
+2018,6,Monaco Grand Prix,2018-05-27,gasly,GAS,10,Pierre Gasly,toro_rosso,Toro Rosso,10,7,7,6,78,Finished,+24.331,15,1:17.099
+2018,6,Monaco Grand Prix,2018-05-27,hulkenberg,HUL,27,Nico Hülkenberg,renault,Renault,11,8,8,4,78,Finished,+24.839,6,1:16.061
+2018,6,Monaco Grand Prix,2018-05-27,max_verstappen,VER,3,Max Verstappen,red_bull,Red Bull,20,9,9,2,78,Finished,+25.317,1,1:14.260
+2018,6,Monaco Grand Prix,2018-05-27,sainz,SAI,55,Carlos Sainz,renault,Renault,8,10,10,1,78,Finished,+1:09.013,18,1:17.491
+2018,6,Monaco Grand Prix,2018-05-27,ericsson,ERI,9,Marcus Ericsson,sauber,Sauber,16,11,11,0,78,Finished,+1:09.864,12,1:16.936
+2018,6,Monaco Grand Prix,2018-05-27,perez,PER,11,Sergio Pérez,force_india,Force India,9,12,12,0,78,Finished,+1:10.461,19,1:17.546
+2018,6,Monaco Grand Prix,2018-05-27,kevin_magnussen,MAG,20,Kevin Magnussen,haas,Haas F1 Team,19,13,13,0,78,Finished,+1:14.823,17,1:17.476
+2018,6,Monaco Grand Prix,2018-05-27,vandoorne,VAN,2,Stoffel Vandoorne,mclaren,McLaren,12,14,14,0,77,+1 Lap,,11,1:16.864
+2018,6,Monaco Grand Prix,2018-05-27,grosjean,GRO,8,Romain Grosjean,haas,Haas F1 Team,18,15,15,0,77,+1 Lap,,2,1:14.822
+2018,6,Monaco Grand Prix,2018-05-27,sirotkin,SIR,35,Sergey Sirotkin,williams,Williams,13,16,16,0,77,+1 Lap,,4,1:15.325
+2018,6,Monaco Grand Prix,2018-05-27,stroll,STR,18,Lance Stroll,williams,Williams,17,17,17,0,76,+2 Laps,,3,1:14.944
+2018,6,Monaco Grand Prix,2018-05-27,leclerc,LEC,16,Charles Leclerc,sauber,Sauber,14,18,R,0,70,Collision,,20,1:17.710
+2018,6,Monaco Grand Prix,2018-05-27,brendon_hartley,HAR,28,Brendon Hartley,toro_rosso,Toro Rosso,15,19,R,0,70,Collision,,16,1:17.172
+2018,6,Monaco Grand Prix,2018-05-27,alonso,ALO,14,Fernando Alonso,mclaren,McLaren,7,20,R,0,52,Gearbox,,13,1:17.018

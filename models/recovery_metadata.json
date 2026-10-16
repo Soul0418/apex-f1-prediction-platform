@@ -1,0 +1,42 @@
+{
+    "saved_at_utc": "2026-10-12T12:20:47.503764+00:00",
+    "models": {
+        "baseline": "baseline_model.joblib",
+        "logistic_regression": "logistic_regression_model.joblib",
+        "random_forest": "random_forest_model.joblib"
+    },
+    "model_directory": "C:\\Users\\saksham\\Desktop\\Project\\f1-prediction-platform\\models",
+    "reports_directory": "C:\\Users\\saksham\\Desktop\\Project\\f1-prediction-platform\\reports",
+    "feature_columns": [
+        "season",
+        "round",
+        "race_name",
+        "race_date",
+        "driver_id",
+        "driver_code",
+        "driver_number",
+        "driver_name",
+        "constructor_id",
+        "constructor_name",
+        "grid",
+        "position",
+        "position_text",
+        "points",
+        "laps",
+        "status",
+        "finish_time",
+        "fastest_lap_rank",
+        "fastest_lap_time",
+        "position_num",
+        "won_race",
+        "driver_prior_mean_finish",
+        "driver_prior_win_rate",
+        "driver_recent5_mean_finish",
+        "constructor_prior_mean_finish",
+        "constructor_prior_win_rate",
+        "qualifying_position",
+        "qualifying_position_feature"
+    ],
+    "evaluation_year": 2025,
+    "training_years": "2018-2024"
+}

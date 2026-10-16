@@ -1,0 +1,5 @@
+model,races_evaluated,mean_log_loss,mean_brier_score,mean_winner_probability
+Logistic Regression,24,1.1693,0.598,0.3442
+Baseline,24,1.2254,0.6138,0.3114
+Random Forest,24,1.3708,0.6585,0.2878
+Uniform baseline,24,2.9936,0.9499,0.0501
