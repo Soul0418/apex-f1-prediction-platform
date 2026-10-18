@@ -121,6 +121,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://127.0.0.1:3000",
+        "https://apex-f1-prediction-platform-nm3v-pied.vercel.app",
         "https://apex-f1-prediction-platform-nm3v-ik0xu9zyk.vercel.app",
     ],
     allow_credentials=False,
